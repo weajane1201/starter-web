@@ -14,6 +14,6 @@ This is example is to show different parts of the Git repository and various com
 This is a simpel web project, deployment can be on any webserver
 
 ##How to Contribute
-
+Please fork this repository and issue PUll REQUEST FOR REVIEW
 ##Copyright
 2014 Git.Training
